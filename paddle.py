@@ -1,4 +1,3 @@
-import imp
 from re import T
 from turtle import Turtle
 
